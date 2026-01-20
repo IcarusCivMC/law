@@ -1,0 +1,1 @@
+This is an up-to-date repository of all Icarus law. [Please create a pull request if you would like to make an update](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
