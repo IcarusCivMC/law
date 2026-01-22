@@ -20,11 +20,11 @@ This constitution recognises the status of the Second Republic of Icarus as a st
 thus in turn recognises the supremacy of the Icenian constitution.
 ### Section 4
 The secession clause may be activated by a supermajority of the state parliament with the
-approval of the governor. If the clause is triggered every citizen will vote on whether to leave or
+approval of the president. If the clause is triggered every citizen will vote on whether to leave or
 stay in Icenia.
 ### Section 5
 This Constitution shall be the highest law within the lands of the Republic. Legislature passed by
-the Parliament and decrees passed by the Governor shall be considered void in the case that they
+the Parliament and decrees passed by the President shall be considered void in the case that they
 are incompatible with the Constitution.
 
 ## Article II - Government Hierarchy
@@ -32,12 +32,12 @@ are incompatible with the Constitution.
 All government officials in the Republic must hold Icenian Citizenship. This does not apply to
 the governance of each local jurisdiction. Each member of the government must maintain
 activity in accordance with Article VIII or else be removed from office via a petition reaching ⅔
-or Governor orders. Government officials removed this way are to be re-elected with Icenian
+or President orders. Government officials removed this way are to be re-elected with Icenian
 supervision immediately in accordance with Article VIII.
 ### Section 2
-The Governor of Icarus is the executive leader of Icarus. The Governor oversees parliamentary
+The President of Icarus is the executive leader of Icarus. The President oversees parliamentary
 elections, the implementation of laws, coordinates state policy, and represents Icarus in external
-affairs. The Governor must act in accordance with the Constitution. The Governor will appoint
+affairs. The President must act in accordance with the Constitution. The President will appoint
 or be the Icarus state representative to the Icenian Senate.
 ### Section 3
 The Parliament of Icarus shall be the principal governing body of the Republic and legislative
@@ -49,7 +49,7 @@ discussion and debate.
 ### Section 4
 The Parliament of Icarus is charged with the management of inter-city relationships and
 proposals. When a conflict arises or a policy that affects two cities locally is to be drafted, a
-Parliament member or the Governor is to sit in on the meetings as a mediator, or send an
+Parliament member or the President is to sit in on the meetings as a mediator, or send an
 appointed mediator. Once a consensus is met, the Icarian representative is to provide a signature
 of approval on the matter, and forward the result to Parliament for archiving.
 
@@ -74,7 +74,7 @@ charter to do so from Parliament.
 
 ## Article IV - Legislation and Petition
 ### Section 1
-A convention is opened when a Parliament member, Governor, or an appointed delegate submits
+A convention is opened when a Parliament member, President, or an appointed delegate submits
 a proposal. The discussions are to be held on a discord channel all Icarians can view. Each
 deliberation should have a public discord forum opened, in which any Icarian can deliberate on.
 Matters of privacy and national security may be withheld from the public channel and discussed
@@ -82,16 +82,16 @@ within private channels. Discussions shall last up to five days, extendable by t
 Parliament majority vote or public poll with majority active Icarian support. Discussion may be
 cut short through a Parliament majority vote or public poll with majority active Icarian support.
 ### Section 2
-Once discussions are concluded on a proposal, the Governor is to present the draft of the
-proposal for voting. Drafting may be delegated from the Governor to any Parliament member or
+Once discussions are concluded on a proposal, the President is to present the draft of the
+proposal for voting. Drafting may be delegated from the President to any Parliament member or
 appointed delegate. The proposal becomes law with a successful majority vote. Each Parliament
-member and the Governor have a vote.
+member and the President have a vote.
 ### Section 3
 Amendments and Enclosures to the Constitution of Icarus require the above process, and a public
 poll in discord, with majority support from active Icarians.
 ### Section 4
 Any Icarian may propose a petition, whether it is for law or a specific governing action. Petitions
-are to be managed via discord. Once ¼ of active Icarians have signed or the Governor desires to
+are to be managed via discord. Once ¼ of active Icarians have signed or the President desires to
 table the petition, it is passed to the next stage. Petition policy is enforced in accordance with the
 associated enclosure.
 
@@ -119,7 +119,7 @@ evidence and trials, and all decisions must be informed in accordance with that.
 
 Article VI- Treasury
 ### Section 1
-The Governor shall appoint a Treasurer to manage finance, who must be confirmed by a public
+The President shall appoint a Treasurer to manage finance, who must be confirmed by a public
 referendum. The Treasurer is to have a 12 week term. The treasurer can only be dismissed by a
 public poll or petition.
 ### Section 2
@@ -132,8 +132,8 @@ with the enclosures.
 
 ## Article VII- Military
 ### Section 1
-The Governor will appoint a Lieutenant General(pronounced /lefˈten.ənt/)who will serve as
-head of the military of Icarus for 3 months after which the Governor can decide to reappoint the
+The President will appoint a Lieutenant General(pronounced /lefˈten.ənt/)who will serve as
+head of the military of Icarus for 3 months after which the President can decide to reappoint the
 incumbent Lieutenant General or appoint a new one. The Lieutenant General may be removed
 through Parliament majority vote.
 ### Section 2
@@ -144,9 +144,9 @@ responsibilities. These captains may serve as long as the Lieutenant General ser
 removed by a parliamentary majority vote or by the Lieutenant General.
 ### Section 3
 The Lieutenant General can add people to the army as a defender with approval from the
-Governor. Defenders may be given access to certain military infrastructure.
+President. Defenders may be given access to certain military infrastructure.
 ### Section 4
-Military infrastructure cannot be removed or obstructed without approval from the Governor and
+Military infrastructure cannot be removed or obstructed without approval from the President and
 a parliamentary majority approval.
 
 ## Article VIII - Residency and Voting
@@ -235,11 +235,11 @@ and constitutionality of the contract.
 
 ## Enclosure 3 - Elections
 Elections are to be held once per month, starting with the signing of this Constitution.
-The Governor’s race shall be held first, in a 48 hour first-pass-the-post election. The Parliament
-election is to be held with the declaration of the Governor, and is to run in a 48 hour single
+The President’s race shall be held first, in a 48 hour first-pass-the-post election. The Parliament
+election is to be held with the declaration of the President, and is to run in a 48 hour single
 transferable vote election. Both elections are to be monitored by an Icenian representative.
 ## Enclosure 4 - Parliament Structure
 The Parliament is to have, at a minimum, five seats available for election. This number
-can be expanded to any odd number, at the Governor’s recommendation, only if that larger
+can be expanded to any odd number, at the President’s recommendation, only if that larger
 number is equivalent to the number of specific settlements with more than 5 active players inside
 of Icarus.
