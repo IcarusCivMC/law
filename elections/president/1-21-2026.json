@@ -1,0 +1,412 @@
+{
+  "version": "2.1",
+  "timestamp": "2026-01-21T23:14:11.131Z",
+  "inputMode": "discord",
+  "electionName": "",
+  "candidates": [
+    "mushroomstew101",
+    "JuniorTide",
+    "Mushroom_Cultist",
+    "Zolo17",
+    "Dr Bacon Hair",
+    "HsmNewfriend"
+  ],
+  "ballots": [
+    {
+      "voter": "zolo",
+      "rankings": [
+        "Zolo17",
+        "Hsmnewfriend",
+        "Drbaconhair",
+        "Mushroomstew",
+        "Mushroomcultist"
+      ]
+    },
+    {
+      "voter": "spenduh",
+      "rankings": [
+        "why am i not on the ballot",
+        "Dr Bacon Hair",
+        "Mushroom_Cultist",
+        "HsmNewfriend",
+        "Zolo17",
+        "mushroomstew101",
+        "Juniortide"
+      ]
+    },
+    {
+      "voter": "theantiderne",
+      "rankings": [
+        "lerpwl",
+        "spenduh",
+        "bacon",
+        "zolo",
+        "hsm",
+        "cultist",
+        "stew"
+      ]
+    },
+    {
+      "voter": "drbaconhair",
+      "rankings": [
+        "Zolo",
+        "Bacon",
+        "Hsm",
+        "Lerpwl",
+        "Spenduh",
+        "Uhhhh",
+        "Mushroomstew"
+      ]
+    },
+    {
+      "voter": "hsmnewfriend",
+      "rankings": [
+        "JUNIORTIDE",
+        "MUSHROOMSTEW101",
+        "DR BACON HAIR",
+        "ZOLO17",
+        "HSMnewfriend",
+        "mushroomcult"
+      ]
+    },
+    {
+      "voter": "eledion",
+      "rankings": [
+        "JuniorTide",
+        "zolo17",
+        "Mushroomstew101",
+        "Mushroom_Cultist",
+        "Dr Bacon Hair",
+        "HsmNewfriend"
+      ]
+    },
+    {
+      "voter": "raeders",
+      "rankings": [
+        "Zolo17",
+        "Dr_Bacon_Hair"
+      ]
+    },
+    {
+      "voter": "juniortide",
+      "rankings": [
+        "JUNIORTIDE",
+        "MUSHROOMSTEW101",
+        "DR BACON HAIR",
+        "ZOLO17",
+        "HSMnewfriend",
+        "inferior mushroom boy"
+      ]
+    },
+    {
+      "voter": "haxx0r",
+      "rankings": [
+        "JUNIORTIDE",
+        "MUSHROOMSTEW101",
+        "DR BACON HAIR",
+        "Mushroom_Cultist",
+        "HSMnewfriend",
+        "ZOLO17"
+      ]
+    },
+    {
+      "voter": "sboar",
+      "rankings": [
+        "PM",
+        "Zolo17",
+        "Bacon",
+        "Hsmnewfriend",
+        "Mushroomstew"
+      ]
+    },
+    {
+      "voter": "john",
+      "rankings": [
+        "PM",
+        "Zolo17",
+        "Bacon",
+        "Hsmnewfriend",
+        "Mushroomstew"
+      ]
+    },
+    {
+      "voter": "peemcgee",
+      "rankings": [
+        "bacon",
+        "zolo",
+        "hsmnewfriend",
+        "mushroomstew101",
+        "juniortide i GUESS )"
+      ]
+    },
+    {
+      "voter": "stefanmakkermayorbytheway",
+      "rankings": [
+        "Zolo",
+        "With the best interest of Icarus in mind, it would be shameful to vote for a bunch of troll campaigners that arent gonna do jack shit in Icarus."
+      ]
+    },
+    {
+      "voter": "darkhelmet12e4",
+      "rankings": [
+        "Zolo"
+      ]
+    },
+    {
+      "voter": "konpiracyterist",
+      "rankings": [
+        "PM",
+        "Hokkaido",
+        "Tuna42O",
+        "mushroomstew101",
+        "Dr baconhair",
+        "Zolo",
+        "Hsmnewfreind"
+      ]
+    },
+    {
+      "voter": "mushroom_cultist",
+      "rankings": [
+        "drbaconhair",
+        "zolo"
+      ]
+    },
+    {
+      "voter": "silent",
+      "rankings": [
+        "Zolo",
+        "HSM",
+        "JuniorTide",
+        "Dr Bacon Hair",
+        "Mushroomstew101",
+        "Mushroom_Cultist"
+      ]
+    }
+  ],
+  "rawDiscordInput": {
+    "candidates": "mushroomstew101\nJuniorTide\nMushroom_Cultist\nZolo17\nDr Bacon Hair\nHsmNewfriend",
+    "ballots": "Zolo — Yesterday at 6:03 PM\nZolo17\nHsmnewfriend\nDrbaconhair\nMushroomstew\nMushroomcultist\n\nSpenduh — Yesterday at 6:03 PM\nwhy am i not on the ballot\n\nDr Bacon Hair\nMushroom_Cultist\nHsmNewfriend\nZolo17\nmushroomstew101\nJuniortide \n\nthe anti-derne — Yesterday at 6:12 PM\nlerpwl\nspenduh \nbacon\nzolo\nhsm\ncultist\nstew\n\nDr Bacon Hair — Yesterday at 6:17 PM\nZolo\nBacon\nHsm\nLerpwl\nSpenduh\nUhhhh\nMushroomstew\n\nHsmNewfriend — Yesterday at 6:17 PM\nJUNIORTIDE\nMUSHROOMSTEW101\nDR BACON HAIR\nZOLO17\nHSMnewfriend\nmushroomcult \n\nEledion — Yesterday at 6:25 PM\nJuniorTide\nzolo17\nMushroomstew101 (idk who this is)\nMushroom_Cultist (Never met before)\nDr Bacon Hair\nHsmNewfriend\n\nRaeders — Yesterday at 6:30 PM\nZolo17\nDr_Bacon_Hair\n\nJuniorTide — Yesterday at 9:13 PM\nJUNIORTIDE\nMUSHROOMSTEW101\nDR BACON HAIR\nZOLO17\nHSMnewfriend\ninferior mushroom boy\n\nHaxx0r — Yesterday at 9:20 PM\nJUNIORTIDE\nMUSHROOMSTEW101\nDR BACON HAIR\nMushroom_Cultist\nHSMnewfriend\nZOLO17 \n\nSboar — Yesterday at 10:07 PM\nZolo17\nBacon\nHsmnewfriend \nMushroomstew\n\nJohn — Yesterday at 11:15 PM\nZolo17\nBacon\nHsmnewfriend \nMushroomstew\n\npeemcgee !!!! — Yesterday at 1:50 AM\nbacon\nzolo\nhsmnewfriend\nmushroomstew101\njuniortide i GUESS (sigh joke (AS IN THE I GUESS IS A JOKE NOT IM JOKING ABOUT VOTING FOR JT I JUST REALIZED THAT MIGHT CAUSE CONFUSION)) \n\nStefanMakker (Mayor by the way)  — Yesterday at 2:19 AM\nZolo\nWith the best interest of Icarus in mind, it would be shameful to vote for a bunch of troll campaigners that aren't gonna do jack shit in Icarus.\n\nDark Helmet12E4 — Yesterday at 9:46 AM\nZolo\n\nkonpiracy terist — Yesterday at 12:46 PM\nHokkaido\nTuna42O\nmushroomstew101\nDr baconhair\nZolo\nHsmnewfreind\n\nMushroom_Cultist — Yesterday at 3:53 PM\ndrbaconhair\nzolo\n\nSilent — Yesterday at 4:33 PM\nZolo\nHSM\nJuniorTide\nDr Bacon Hair\nMushroomstew101\nMushroom_Cultist",
+    "seats": 5
+  },
+  "nameMatches": {
+    "Zolo17": "Zolo17",
+    "Zolo": "Zolo17",
+    "Mushroomstew": "mushroomstew101",
+    "Mushroom_Cultist": "Mushroom_Cultist",
+    "Hsmnewfriend": "HsmNewfriend",
+    "Dr Bacon Hair": "Dr Bacon Hair",
+    "mushroomstew101": "mushroomstew101",
+    "zolo": "Zolo17",
+    "Bacon": "Dr Bacon Hair",
+    "JUNIORTIDE": "JuniorTide",
+    "MUSHROOMSTEW101": "mushroomstew101",
+    "DR BACON HAIR": "Dr Bacon Hair",
+    "ZOLO17": "Zolo17",
+    "HSMnewfriend": "HsmNewfriend",
+    "PM": "__NOT_A_BALLOT__",
+    "HsmNewfriend": "HsmNewfriend",
+    "bacon": "Dr Bacon Hair",
+    "JuniorTide": "JuniorTide",
+    "Mushroomstew101": "mushroomstew101",
+    "Drbaconhair": "Dr Bacon Hair",
+    "Mushroomcultist": "Mushroom_Cultist",
+    "why am i not on the ballot": "__NOT_A_BALLOT__",
+    "Juniortide": "JuniorTide",
+    "lerpwl": null,
+    "spenduh": null,
+    "hsm": "HsmNewfriend",
+    "cultist": "Mushroom_Cultist",
+    "stew": "mushroomstew101",
+    "Hsm": "HsmNewfriend",
+    "Lerpwl": null,
+    "Spenduh": null,
+    "Uhhhh": "__NOT_A_BALLOT__",
+    "mushroomcult": "Mushroom_Cultist",
+    "zolo17": "Zolo17",
+    "Dr_Bacon_Hair": "Dr Bacon Hair",
+    "inferior mushroom boy": "Mushroom_Cultist",
+    "hsmnewfriend": "HsmNewfriend",
+    "juniortide i GUESS )": "JuniorTide",
+    "With the best interest of Icarus in mind, it would be shameful to vote for a bunch of troll campaigners that arent gonna do jack shit in Icarus.": "__NOT_A_BALLOT__",
+    "Hokkaido": null,
+    "Tuna42O": null,
+    "Dr baconhair": "Dr Bacon Hair",
+    "Hsmnewfreind": "HsmNewfriend",
+    "drbaconhair": "Dr Bacon Hair",
+    "HSM": "HsmNewfriend"
+  },
+  "learnedCorrelations": {
+    "pm": "__NOT_A_BALLOT__",
+    "why am i not on the ballot": "__NOT_A_BALLOT__",
+    "uhhhh": "__NOT_A_BALLOT__",
+    "inferior mushroom boy": "Mushroom_Cultist",
+    "with the best interest of icarus in mind, it would be shameful to vote for a bunch of troll campaigners that arent gonna do jack shit in icarus.": "__NOT_A_BALLOT__",
+    "hokkaido": null
+  },
+  "ballotOverrides": {},
+  "originalBallotText": {
+    "zolo": "Zolo — Yesterday at 6:03 PM\nZolo17\nHsmnewfriend\nDrbaconhair\nMushroomstew\nMushroomcultist\n",
+    "spenduh": "Spenduh — Yesterday at 6:03 PM\nwhy am i not on the ballot\n\nDr Bacon Hair\nMushroom_Cultist\nHsmNewfriend\nZolo17\nmushroomstew101\nJuniortide \n",
+    "theantiderne": "the anti-derne — Yesterday at 6:12 PM\nlerpwl\nspenduh \nbacon\nzolo\nhsm\ncultist\nstew\n",
+    "drbaconhair": "Dr Bacon Hair — Yesterday at 6:17 PM\nZolo\nBacon\nHsm\nLerpwl\nSpenduh\nUhhhh\nMushroomstew\n",
+    "hsmnewfriend": "HsmNewfriend — Yesterday at 6:17 PM\nJUNIORTIDE\nMUSHROOMSTEW101\nDR BACON HAIR\nZOLO17\nHSMnewfriend\nmushroomcult \n",
+    "eledion": "Eledion — Yesterday at 6:25 PM\nJuniorTide\nzolo17\nMushroomstew101 (idk who this is)\nMushroom_Cultist (Never met before)\nDr Bacon Hair\nHsmNewfriend\n",
+    "raeders": "Raeders — Yesterday at 6:30 PM\nZolo17\nDr_Bacon_Hair\n",
+    "juniortide": "JuniorTide — Yesterday at 9:13 PM\nJUNIORTIDE\nMUSHROOMSTEW101\nDR BACON HAIR\nZOLO17\nHSMnewfriend\ninferior mushroom boy\n",
+    "haxx0r": "Haxx0r — Yesterday at 9:20 PM\nJUNIORTIDE\nMUSHROOMSTEW101\nDR BACON HAIR\nMushroom_Cultist\nHSMnewfriend\nZOLO17 \n",
+    "sboar": "Sboar — Yesterday at 10:07 PM\nZolo17\nBacon\nHsmnewfriend \nMushroomstew\n",
+    "john": "John — Yesterday at 11:15 PM\nZolo17\nBacon\nHsmnewfriend \nMushroomstew\n",
+    "peemcgee": "peemcgee !!!! — Yesterday at 1:50 AM\nbacon\nzolo\nhsmnewfriend\nmushroomstew101\njuniortide i GUESS (sigh joke (AS IN THE I GUESS IS A JOKE NOT IM JOKING ABOUT VOTING FOR JT I JUST REALIZED THAT MIGHT CAUSE CONFUSION)) \n",
+    "stefanmakkermayorbytheway": "StefanMakker (Mayor by the way)  — Yesterday at 2:19 AM\nZolo\nWith the best interest of Icarus in mind, it would be shameful to vote for a bunch of troll campaigners that aren't gonna do jack shit in Icarus.\n",
+    "darkhelmet12e4": "Dark Helmet12E4 — Yesterday at 9:46 AM\nZolo\n",
+    "konpiracyterist": "konpiracy terist — Yesterday at 12:46 PM\nHokkaido\nTuna42O\nmushroomstew101\nDr baconhair\nZolo\nHsmnewfreind\n",
+    "mushroom_cultist": "Mushroom_Cultist — Yesterday at 3:53 PM\ndrbaconhair\nzolo\n",
+    "silent": "Silent — Yesterday at 4:33 PM\nZolo\nHSM\nJuniorTide\nDr Bacon Hair\nMushroomstew101\nMushroom_Cultist"
+  },
+  "reviewedNames": [
+    "Zolo17",
+    "Zolo",
+    "Mushroomstew",
+    "Mushroom_Cultist",
+    "Hsmnewfriend",
+    "Dr Bacon Hair",
+    "mushroomstew101",
+    "zolo",
+    "Bacon",
+    "JUNIORTIDE",
+    "MUSHROOMSTEW101",
+    "DR BACON HAIR",
+    "ZOLO17",
+    "HSMnewfriend",
+    "PM",
+    "HsmNewfriend",
+    "bacon",
+    "JuniorTide",
+    "Mushroomstew101",
+    "Drbaconhair",
+    "Mushroomcultist",
+    "why am i not on the ballot",
+    "Juniortide",
+    "lerpwl",
+    "spenduh",
+    "hsm",
+    "cultist",
+    "stew",
+    "Hsm",
+    "Lerpwl",
+    "Spenduh",
+    "Uhhhh",
+    "mushroomcult",
+    "zolo17",
+    "Dr_Bacon_Hair",
+    "inferior mushroom boy",
+    "hsmnewfriend",
+    "juniortide i GUESS )",
+    "With the best interest of Icarus in mind, it would be shameful to vote for a bunch of troll campaigners that arent gonna do jack shit in Icarus.",
+    "Hokkaido",
+    "Tuna42O",
+    "Dr baconhair",
+    "Hsmnewfreind",
+    "drbaconhair",
+    "HSM"
+  ],
+  "uniqueNames": [
+    "Zolo17",
+    "Zolo",
+    "Mushroomstew",
+    "Mushroom_Cultist",
+    "Hsmnewfriend",
+    "Dr Bacon Hair",
+    "mushroomstew101",
+    "zolo",
+    "Bacon",
+    "JUNIORTIDE",
+    "MUSHROOMSTEW101",
+    "DR BACON HAIR",
+    "ZOLO17",
+    "HSMnewfriend",
+    "PM",
+    "HsmNewfriend",
+    "bacon",
+    "JuniorTide",
+    "Mushroomstew101",
+    "Drbaconhair",
+    "Mushroomcultist",
+    "why am i not on the ballot",
+    "Juniortide",
+    "lerpwl",
+    "spenduh",
+    "hsm",
+    "cultist",
+    "stew",
+    "Hsm",
+    "Lerpwl",
+    "Spenduh",
+    "Uhhhh",
+    "mushroomcult",
+    "zolo17",
+    "Dr_Bacon_Hair",
+    "inferior mushroom boy",
+    "hsmnewfriend",
+    "juniortide i GUESS )",
+    "With the best interest of Icarus in mind, it would be shameful to vote for a bunch of troll campaigners that arent gonna do jack shit in Icarus.",
+    "Hokkaido",
+    "Tuna42O",
+    "Dr baconhair",
+    "Hsmnewfreind",
+    "drbaconhair",
+    "HSM"
+  ],
+  "nameCounts": {
+    "Zolo17": 5,
+    "Hsmnewfriend": 3,
+    "Drbaconhair": 1,
+    "Mushroomstew": 4,
+    "Mushroomcultist": 1,
+    "why am i not on the ballot": 1,
+    "Dr Bacon Hair": 3,
+    "Mushroom_Cultist": 4,
+    "HsmNewfriend": 2,
+    "mushroomstew101": 3,
+    "Juniortide": 1,
+    "lerpwl": 1,
+    "spenduh": 1,
+    "bacon": 2,
+    "zolo": 3,
+    "hsm": 1,
+    "cultist": 1,
+    "stew": 1,
+    "Zolo": 5,
+    "Bacon": 3,
+    "Hsm": 1,
+    "Lerpwl": 1,
+    "Spenduh": 1,
+    "Uhhhh": 1,
+    "JUNIORTIDE": 3,
+    "MUSHROOMSTEW101": 3,
+    "DR BACON HAIR": 3,
+    "ZOLO17": 3,
+    "HSMnewfriend": 3,
+    "mushroomcult": 1,
+    "JuniorTide": 2,
+    "zolo17": 1,
+    "Mushroomstew101": 2,
+    "Dr_Bacon_Hair": 1,
+    "inferior mushroom boy": 1,
+    "PM": 3,
+    "hsmnewfriend": 1,
+    "juniortide i GUESS )": 1,
+    "With the best interest of Icarus in mind, it would be shameful to vote for a bunch of troll campaigners that arent gonna do jack shit in Icarus.": 1,
+    "Hokkaido": 1,
+    "Tuna42O": 1,
+    "Dr baconhair": 1,
+    "Hsmnewfreind": 1,
+    "drbaconhair": 1,
+    "HSM": 1
+  },
+  "currentState": {
+    "section": "ballot-review",
+    "currentNameIndex": 45,
+    "currentBallotIndex": 0
+  }
+}
